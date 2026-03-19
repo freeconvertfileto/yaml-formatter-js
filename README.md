@@ -2,7 +2,7 @@
 
 Format and validate YAML documents using js-yaml with configurable indentation and line width, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/developer-tools/yaml-formatter
+**Live Demo:** https://file-converter-free.com/en/developer-tools/yaml-formatter-online
 
 ## How It Works
 
